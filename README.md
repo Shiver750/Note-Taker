@@ -2,6 +2,8 @@
 
 ## Description
 Express backend built for provided Note Taker front end via UW Boot Camp.
+
+![Screenshot](./Assets/Screenshot.png)
 ## Table of contents
 * [Installation](#installation)
 * [Usage](#usage)
