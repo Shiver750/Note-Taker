@@ -16,7 +16,7 @@ To install necessary dependencies, run the following command:
 (npm i)
 ```
 ## Usage
-Fork then pull request for review.
+[Deployed]()
 ## License 
 This project is licensed under the MIT license.
 ## Contributing
