@@ -16,7 +16,7 @@ To install necessary dependencies, run the following command:
 (npm i)
 ```
 ## Usage
-[Deployed]()
+[Deployed](https://note-taker-express-uw.herokuapp.com/) via Heroku
 ## License 
 This project is licensed under the MIT license.
 ## Contributing
